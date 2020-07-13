@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="github hello.png">
+  <img src="https://github.com/NafeeJ/NafeeJ/blob/master/github%20hello.png">
 </p>
 
 <!--
