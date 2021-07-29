@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/NafeeJ/NafeeJ/blob/master/github%20hello.png">
-</p>
+hello :)
 
 ---
 
